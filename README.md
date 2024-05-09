@@ -32,7 +32,7 @@ To run the script, follow these steps:
 2. Navigate to the directory where the script is located.
 3. Run the script:
    ```bash
-   python anti_recoil.py
+   python main.py
    ```
 4. Use the designated toggle key ('6' by default) to turn the anti-recoil functionality on and off while the script is running.
 
