@@ -3,6 +3,12 @@
 ## Introduction
 This Python script is designed to simulate anti-recoil mechanics in desktop applications for educational and simulation purposes only. It uses the `win32api` to programmatically control mouse movements and simulate different recoil patterns.
 
+## Video Demonstration
+
+Click on the image below to watch the video demonstration of the Anti-Recoil Simulation Script:
+
+[![Watch the video](https://img.youtube.com/vi/Z7hGVgOYqVU/hqdefault.jpg)](https://youtu.be/Z7hGVgOYqVU)
+
 ## Features
 - Toggle anti-recoil on and off using a specific key.
 - Adjustable recoil patterns.
