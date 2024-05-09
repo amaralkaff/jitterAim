@@ -49,17 +49,4 @@ Contributions to improve the script or adapt it for different uses are welcome. 
 Specify the license under which the script is distributed. This will inform users about how they can use and distribute the script.
 
 ## Contact
-For any further queries or technical support, please contact [Your Email](mailto:your.email@example.com).
-
-### Notes:
-- **Introduction**: Briefly describe what the script does.
-- **Features**: List features and any unique capabilities of your script.
-- **Installation**: Provide clear instructions on how to set up the environment and install any necessary dependencies.
-- **Usage**: Explain how to run and interact with the script.
-- **Configuration**: Offer guidance on how to change settings or modify the script’s behavior.
-- **Disclaimer**: It's crucial to include a disclaimer, especially for scripts that could potentially be used in ways that violate software terms of service.
-- **Contributing**: Encourage others to contribute if you're hosting this project in a repository.
-- **License**: Always specify the license under which the software is distributed.
-- **Contact**: Provide a way for users to reach you if they have questions.
-
-This README will help users understand and utilize your script responsibly and effectively.
+For any further queries or technical support, please contact [Your Email](mailto:your.amaralkaff@gmail.com).
