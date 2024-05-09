@@ -1,6 +1,3 @@
-Creating a README file for your simulation script is an excellent way to document its functionality, usage, and any other important information. Here's a template README.md you can use for your anti-recoil script. This template provides a basic structure, including sections like Introduction, Installation, Usage, and Disclaimer, which are essential for clarity and responsible usage.
-
-```markdown
 # Anti-Recoil Script
 
 ## Introduction
@@ -53,8 +50,6 @@ Specify the license under which the script is distributed. This will inform user
 
 ## Contact
 For any further queries or technical support, please contact [Your Email](mailto:your.email@example.com).
-
-```
 
 ### Notes:
 - **Introduction**: Briefly describe what the script does.
