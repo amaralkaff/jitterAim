@@ -7,7 +7,7 @@ This Python script is designed to simulate anti-recoil mechanics in desktop appl
 
 Click on the image below to watch the video demonstration of the Anti-Recoil Simulation Script:
 
-[![Watch the video](https://img.youtube.com/vi/Z7hGVgOYqVU/hqdefault.jpg)](https://youtu.be/Z7hGVgOYqVU)
+[![Watch the video](https://img.youtube.com/vi/Z7hGVgOYqVU/hqdefault.jpg)](https://youtu.be/watch?v=wC-brx_yn1c)
 
 ## Features
 - Toggle anti-recoil on and off using a specific key.
