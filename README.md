@@ -49,4 +49,4 @@ Contributions to improve the script or adapt it for different uses are welcome. 
 Specify the license under which the script is distributed. This will inform users about how they can use and distribute the script.
 
 ## Contact
-For any further queries or technical support, please contact [Your Email](mailto:your.amaralkaff@gmail.com).
+For any further queries or technical support, please contact [Me](mailto:your.amaralkaff@gmail.com).
