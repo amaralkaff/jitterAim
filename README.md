@@ -12,7 +12,6 @@ This Python script is designed to simulate anti-recoil mechanics in desktop appl
 
 ### Prerequisites
 - Ensure that **Python 3.x** is installed on your Windows machine. You can download it from [Python.org](https://www.python.org/downloads/).
-- **Git** is optional but recommended for cloning the repository. It can be downloaded from [Git-scm.com](https://git-scm.com/downloads).
 
 ### Setup
 1. **Clone the repository** (if Git is installed) or download the ZIP file:
