@@ -40,7 +40,7 @@ Click on the image below to watch the video demonstration of the Anti-Recoil Sim
 [![Watch the video](https://img.youtube.com/vi/wC-brx_yn1c/hqdefault.jpg)](https://youtu.be/wC-brx_yn1c)
 
 ## Configuration
-- **Toggle Key**: The default toggle key is '6'. Change the value of `flat_toggle` in the script to use a different key.
+- **Toggle Key**: The default toggle key is '6' or '->' arrow. Change the value of `flat_toggle` in the script to use a different key.
 
 ## Disclaimer
 This script is provided for educational and simulation purposes only. It is not intended for use in software environments or against services where such scripts are prohibited by terms of service or other rules. It is the end user's responsibility to ensure that their use of this script complies with all applicable laws and regulations.
